@@ -1,0 +1,170 @@
+.Кусок {
+}
+.Заголовок {
+    position: relative; /*подключаю возможность перемещать текст*/
+    text-align: center; /* выравниваю текст по центру*/
+    color: #161c24 /* меняю цвет текста*/
+    
+    
+
+}
+.png{
+    position: relative;
+    display: flex; /* превращаю элемент в флекс контейнер*/
+    flex-wrap: wrap;
+    justify-content: center; /* выранивание фотографий по центру*/
+    gap: 350px; /* делаю отступы между элементами*/
+}
+.header_вовзрат_наташкин {
+    
+    
+        
+}
+
+
+.header_логотип_Наташкин {
+    display: flex;
+    gap: 50 px;
+    justify-content: center;
+    width: 1700 px; /* настриваю ширину*/
+    flex-wrap: wrap;
+}
+.header_вовзрат2_наташкин {
+}
+.text{
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+} 
+.текст1{
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    right: 175px; /* перемещение */
+    font-size:larger; /* шрифт*/
+}
+.текст2 {
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    font-size:larger;
+    left: 10px
+
+}
+.текст3 {
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    left: 185px;
+    font-size:larger;
+}
+.text2{
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.текст4{
+    position: absolute;
+    top: -60%; /* перемещение*/
+    left: 21%;
+    transform: translate(-50%, -130%); /* перемещние*/
+    
+    font-size: larger;
+    
+    
+}
+.текст5 {
+    position: absolute;
+    top: 0%;
+    left: 51%;
+    transform: translate(-50%, -130%); 
+    
+    font-size: larger;
+    
+
+}
+.текст6 {
+    position: absolute;
+    top: -40%;
+    left: 79.5%;
+    transform: translate(-50%, -130%);
+    
+    font-size: larger;
+    
+}
+
+
+
+.Заголовок2 {
+    position: relative;
+    text-align: center;
+    top: 20%;
+    
+}
+.png4{
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 10px;
+}
+.png2{
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 50px;
+}
+
+.png3{
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 50px;
+}
+
+.header_для_отелей {
+    
+}
+
+
+
+
+    
+
+.header_для_шкафчиков {
+    
+}
+
+
+
+.headerзамокдля_офисов{
+
+}
+.header_для_дома {
+    
+}
+.текст11{
+    position: relative;
+    width: 200px;
+    height: 50px; /* настройка высоты*/
+    background-color: rgba(66, 149, 228, 1); /* цвет фона*/
+}  
+.текст12{
+    color: white;
+    text-align: center;
+    
+}  
+.ссылка{
+    text-decoration: none; /* убираем подчеркивание*/
+    color: white;
+}
+.new_class{
+    margin: 15px;
+    font-size: large;
+    background-color: rgb(85, 74, 74);
+}
